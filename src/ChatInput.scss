@@ -1,0 +1,14 @@
+.chatInputWrapper {
+  display: flex;
+  padding: 0.25rem;
+
+  input {
+    flex-grow: 11;
+    font-size: 1rem;
+  }
+
+  button {
+    flex-grow: 1;
+    margin-left: 0.1rem;
+  }
+}

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guild-chat-app/precache-manifest.f6a9e986c3e35d345a72eaae06cf2426.js"
+  "/guild-chat-app/precache-manifest.02dc6245494d1595feec36770ac3b49d.js"
 );
 
 self.addEventListener('message', (event) => {

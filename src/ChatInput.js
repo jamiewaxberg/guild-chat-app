@@ -9,7 +9,7 @@ class ChatInput extends Component {
         }
     }
 
-    // post to database
+    // Post message to database with user
     sendMessage(currentUser) {
         databaseRef.push({
             user: currentUser,
@@ -17,10 +17,12 @@ class ChatInput extends Component {
         })
     }
 
+    // This handles the input text in a controlled way
     handleChange(event) {
         this.setState({value: event.target.value});
     }
 
+    // On click of the sutbmit button, post to database & clear input field
     handleOnClick(currentUser) {
         this.sendMessage(currentUser);
         this.setState({value: ''});

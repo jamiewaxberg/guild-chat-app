@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b75ec8bc1cd28f6f1df6310724ba764",
+    "revision": "4efe3e79e152d3c092df0dd0e6712e49",
     "url": "/guild-chat-app/index.html"
   },
   {
-    "revision": "4f2f7b23bb14f2ec994c",
+    "revision": "04c00dc67d887e060fb8",
     "url": "/guild-chat-app/static/css/main.36ea8610.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guild-chat-app/static/js/2.681099fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f2f7b23bb14f2ec994c",
-    "url": "/guild-chat-app/static/js/main.0b7c67ab.chunk.js"
+    "revision": "04c00dc67d887e060fb8",
+    "url": "/guild-chat-app/static/js/main.4742f9b0.chunk.js"
   },
   {
     "revision": "95c7e7712550c9591dfc",

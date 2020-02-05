@@ -1,3 +1,5 @@
+// This file initializes the Firebase database
+
 import * as firebase from "firebase";
 
 const firebaseConfig = {
@@ -9,8 +11,8 @@ const firebaseConfig = {
     messagingSenderId: "989822746315",
     appId: "1:989822746315:web:d16c3ebb698c87f133254e"
 };
-// Initialize Firebase
+
 firebase.initializeApp(firebaseConfig);
 
-const db = firebase.database();
-export const databaseRef = db.ref("/");
+const database = firebase.database();
+export const databaseRef = database.ref("/");

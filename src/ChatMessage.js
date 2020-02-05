@@ -1,5 +1,4 @@
 import React from 'react';
-// import {getChatData} from './MessageService';
 
 function ChatMessage(props) {
     const {

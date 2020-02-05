@@ -10,5 +10,11 @@
   button {
     flex-grow: 1;
     margin-left: 0.1rem;
+    background: #6eb4f3;
+    cursor: pointer;
+
+    &:hover {
+      background: darken(#6eb4f3, 10);
+    }
   }
 }

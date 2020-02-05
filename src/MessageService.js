@@ -17,4 +17,4 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 
 const db = firebase.database();
-export const databaseRef = db.ref("/messages");
+export const databaseRef = db.ref("/");

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guild-chat-app/static/css/main.36ea8610.chunk.css",
+    "main.js": "/guild-chat-app/static/js/main.0b7c67ab.chunk.js",
+    "main.js.map": "/guild-chat-app/static/js/main.0b7c67ab.chunk.js.map",
+    "runtime-main.js": "/guild-chat-app/static/js/runtime-main.fa066239.js",
+    "runtime-main.js.map": "/guild-chat-app/static/js/runtime-main.fa066239.js.map",
+    "static/js/2.681099fb.chunk.js": "/guild-chat-app/static/js/2.681099fb.chunk.js",
+    "static/js/2.681099fb.chunk.js.map": "/guild-chat-app/static/js/2.681099fb.chunk.js.map",
+    "index.html": "/guild-chat-app/index.html",
+    "precache-manifest.f6a9e986c3e35d345a72eaae06cf2426.js": "/guild-chat-app/precache-manifest.f6a9e986c3e35d345a72eaae06cf2426.js",
+    "service-worker.js": "/guild-chat-app/service-worker.js",
+    "static/css/main.36ea8610.chunk.css.map": "/guild-chat-app/static/css/main.36ea8610.chunk.css.map",
+    "static/js/2.681099fb.chunk.js.LICENSE.txt": "/guild-chat-app/static/js/2.681099fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa066239.js",
+    "static/js/2.681099fb.chunk.js",
+    "static/css/main.36ea8610.chunk.css",
+    "static/js/main.0b7c67ab.chunk.js"
+  ]
+}

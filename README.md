@@ -26,4 +26,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Database
 
-This project uses a [Firebase database](https://firebase.google.com/).
+This project uses a [Firebase database](https://firebase.google.com/). The database url is https://guild-chat-app.firebaseio.com/.

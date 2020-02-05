@@ -2,4 +2,10 @@
   margin: 1em;
   padding: 0.5em;
   border: 1px solid #ccc;
+  max-width: fit-content;
+}
+
+.sentMessage {
+  background: #6eb4f3;
+  align-self: flex-end;
 }

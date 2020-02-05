@@ -1,8 +1,19 @@
 import React from 'react';
+// import {getChatData} from './MessageService';
 
-function ChatMessage() {
+function ChatMessage(props) {
+    const {
+        messageItem,
+        currentUser
+    } = props;
+
+    const {
+        message,
+        user
+    } = messageItem;
+
     return (
-        <span className="chatMessage">message text</span>
+        <span className={currentUser === user ? 'sentMessage chatMessage' : 'receivedMessage chatMessage'}>{message}</span>
     );
 }
 
